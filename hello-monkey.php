@@ -1,4 +1,6 @@
 <?php
+$sid = 'AC0e71c835f9ba6c3b33012c2f3e5b0cf0';
+$token = 'f6e351cf827fd248ca6e96cf9c0bccb6';
  
     // make an associative array of callers we know, indexed by phone number
     $people = array(
