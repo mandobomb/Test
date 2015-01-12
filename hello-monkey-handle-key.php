@@ -11,6 +11,6 @@
     echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
 ?>
 <Response>
-    <Dial>+13105551212</Dial>
+    <Dial>+19419620300</Dial>
     <Say>The call failed or the remote party hung up. Goodbye.</Say>
 </Response>
